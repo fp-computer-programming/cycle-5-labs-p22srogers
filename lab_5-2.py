@@ -6,7 +6,7 @@ if word1< word2:
 elif word1 >word2:
     print(word1+" comes after " +word2)
 else:
-    print(word1+" and" +word2+ " are the same")
+    print(word1+ " and " +word2+ " are the same")
 
 
 
